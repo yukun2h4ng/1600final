@@ -1,4 +1,4 @@
-# Keylogging with Metasploit
+# Using Metasploit
 
 
 To run the Metasploit Framework console type **mfsconsole** into the command line in Kali Linux.
