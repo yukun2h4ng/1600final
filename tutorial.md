@@ -1,6 +1,5 @@
 # Using Metasploit
 
----
 ## Table of Contents
 
 **[Home][H]**
