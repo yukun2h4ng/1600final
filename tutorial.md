@@ -9,4 +9,3 @@ To learn more about how to navigate through **mfsconsole**, simply type **mfscon
 
 ---
 
-To use meterpreter
