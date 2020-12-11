@@ -6,15 +6,17 @@ The purpose of this tutorial is to explain how to execute a keylogger on a Windo
 ## Target Audience
 This tutorial is made for those that are familiar with Kali Linux and the Metasploit Framework.
 
+## Table of Contents
+
 **[Home][H]**
 
-**[Page 1 - Using Metasploit][Metasploit]**
+**[1 - Using Metasploit][Metasploit]**
 
-**[Page 2 - Creating a Payload][Create]**
+**[2 - Creating a Payload][Create]**
 
-**[Page 3 - Using Meterpreter][Meterpreter]**
+**[3 - Using Meterpreter][Meterpreter]**
 
-**[Page 4 - Keylogging][Keylog]**
+**[4 - Keylogging][Keylog]**
 
 [H]: https://github.com/yukun2h4ng/1600final/blob/main/README.md
 [Metasploit]: https://github.com/yukun2h4ng/1600final/blob/main/tutorial.md
