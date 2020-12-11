@@ -25,3 +25,13 @@ Now wait for the target to execute the payload created using msfvenom, once it i
 Now meterpreter is enabled and we have access to the target system.
 
 ---
+Currently, the payload is easily seen by the target system in the system process. To avoid being easily detected by the target, simply migrate the payload to another process on the system using the **migrate** command.
+
+<img src="https://raw.githubusercontent.com/yukun2h4ng/1600final/yukun2h4ng-patch-1/images/migrate.png" width="600">
+
+---
+Type **ps** to list all the possible processes the payload can migrate to on the target system.
+
+<img src="https://raw.githubusercontent.com/yukun2h4ng/1600final/yukun2h4ng-patch-1/images/ps.png" width="600">
+
+---
